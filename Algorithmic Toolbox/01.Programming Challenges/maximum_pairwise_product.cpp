@@ -1,37 +1,44 @@
 #include <iostream>
 #include <vector>
+#include <string>
 using namespace std;
 
-long long MaxPair(vector<int> numbers)
+class Solution
 {
-    long long x = 0;
-    int xsize = numbers.size();
-
-    for (int i = 0; i < xsize; i++)
+public:
+    long MaxProduct(vector<int> &nums)
     {
-        for (int j = i + 1; j < xsize; j++)
+        long first = 0, second = 0;
+        for (int i = 0; i < nums.size(); i++)
         {
-            x = max((long long)x, ((long long int)numbers[i] * numbers[j]));
+            if (nums[i] > first)
+            {
+                second = first;
+                first = nums[i];
+            }
+            else if (nums[i] > second)
+            {
+                second = nums[i];
+            }
         }
+        return first * second;
     }
-
-    return x;
-}
+};
 
 int main()
 {
+    vector<int> vec;
     int n;
-
     cin >> n;
-
-    vector<int> numbers(n);
     for (int i = 0; i < n; i++)
     {
-        cin >> numbers[i];
+        int x;
+        cin >> x;
+        vec.push_back(x);
     }
 
-    long long product = MaxPair(numbers);
-    cout << product << endl;
+    Solution s;
+    cout << s.MaxProduct(vec) << endl;
 
     return 0;
 }
