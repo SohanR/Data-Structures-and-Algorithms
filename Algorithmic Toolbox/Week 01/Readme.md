@@ -13,5 +13,5 @@ Welcome to the first module of Data Structures and Algorithms! Here we will prov
 
 # Assignments
 
-- ### [Sum of Two Digits](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2001/aplusb.cpp)
-- ### [Maximum Pairwise Product](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2001/maximum_pairwise_product.cpp)
+- ### [1-1:Sum of Two Digits](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2001/aplusb.cpp)
+- ### [1-2: Maximum Pairwise Product](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2001/maximum_pairwise_product.cpp)
