@@ -6,7 +6,7 @@ The course covers basic algorithmic techniques and ideas for computational probl
 
   ## [Programming Challenges](https://github.com/SohanR/Data-Structures-and-Algorithms/tree/master/Algorithmic%20Toolbox/Week%2001)
 
-         Assignments
+  # Assignments
 
   - ### [Sum of Two Digits](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2001/aplusb.cpp)
   - ### [Maximum Pairwise Product](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2001/maximum_pairwise_product.cpp)
