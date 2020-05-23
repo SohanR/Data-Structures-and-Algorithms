@@ -26,20 +26,20 @@ The course covers basic algorithmic techniques and ideas for computational probl
   - ### [1-1:Sum of Two Digits](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2001/aplusb.cpp)
   - ### [1-2: Maximum Pairwise Product](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2001/maximum_pairwise_product.cpp)
 
-## Week 2
+* ## Week 2
 
-# [Algorithmic Warm-up](https://github.com/SohanR/Data-Structures-and-Algorithms/tree/master/Algorithmic%20Toolbox/Week%2002)
+  # [Algorithmic Warm-up](https://github.com/SohanR/Data-Structures-and-Algorithms/tree/master/Algorithmic%20Toolbox/Week%2002)
 
-## Assignments
+  ## Assignments
 
-- ### [2-1: Fibonacci Number ](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/fibonacci.cpp)
-- ### [2-2: Last Digit of a Large Fibonacci Number](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/fibonacci_last_digit.cpp)
-- ### [2-3: Greatest Common Divisor](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/gcd.cpp)
-- ### [2-4: Least Common Multiple](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/lcm.cpp)
-- ### [2-5: Fibonacci Number Again](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/huge_fibonacci.cpp)
-- ### [2-6: Last Digit of the Sum of Fibonacci Numbers](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/fibonacci_sum.cpp)
-- ### [2-7: Last Digit of the Sum of Fibonacci](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/fibonacci_partial_sum.cpp)
-- ### [2-8: Last Digit of the Sum of Squares of Fibonacci Numbers](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/fibonacci_sum_of_squares.cpp)
+  - ### [2-1: Fibonacci Number ](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/fibonacci.cpp)
+  - ### [2-2: Last Digit of a Large Fibonacci Number](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/fibonacci_last_digit.cpp)
+  - ### [2-3: Greatest Common Divisor](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/gcd.cpp)
+  - ### [2-4: Least Common Multiple](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/lcm.cpp)
+  - ### [2-5: Fibonacci Number Again](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/huge_fibonacci.cpp)
+  - ### [2-6: Last Digit of the Sum of Fibonacci Numbers](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/fibonacci_sum.cpp)
+  - ### [2-7: Last Digit of the Sum of Fibonacci](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/fibonacci_partial_sum.cpp)
+  - ### [2-8: Last Digit of the Sum of Squares of Fibonacci Numbers](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/fibonacci_sum_of_squares.cpp)
 
 * # Data Structure
 
