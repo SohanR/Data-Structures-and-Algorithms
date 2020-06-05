@@ -11,7 +11,7 @@ The course covers basic algorithmic techniques and ideas for computational probl
   - ### [1-1:Sum of Two Digits](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2001/aplusb.cpp)
   - ### [1-2: Maximum Pairwise Product](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2001/maximum_pairwise_product.cpp)
 
-* ## Week 2
+- ## Week 2
 
   # [Algorithmic Warm-up](https://github.com/SohanR/Data-Structures-and-Algorithms/tree/master/Algorithmic%20Toolbox/Week%2002)
 
@@ -25,3 +25,13 @@ The course covers basic algorithmic techniques and ideas for computational probl
   - ### [2-6: Last Digit of the Sum of Fibonacci Numbers](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/fibonacci_sum.cpp)
   - ### [2-7: Last Digit of the Sum of Fibonacci](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/fibonacci_partial_sum.cpp)
   - ### [2-8: Last Digit of the Sum of Squares of Fibonacci Numbers](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%2002/fibonacci_sum_of_squares.cpp)
+
+- ## Week 3
+
+  # [Greedy Algorithms](https://github.com/SohanR/Data-Structures-and-Algorithms/tree/master/Algorithmic%20Toolbox/week%2003)
+
+  # Assignments
+
+  - ### [3-1: Money Change](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/week%2003/change.cpp)
+  - ### [3-4: Maximum 3-4: Maximum Advertisement Revenue](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/week%2003/dot_product.cpp)
+  - ### [3-6: Maximum Number of Prizes](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/week%2003/different_summands.cpp)
