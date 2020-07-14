@@ -35,3 +35,16 @@ The course covers basic algorithmic techniques and ideas for computational probl
   - ### [3-1: Money Change](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/week%2003/change.cpp)
   - ### [3-4: Maximum 3-4: Maximum Advertisement Revenue](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/week%2003/dot_product.cpp)
   - ### [3-6: Maximum Number of Prizes](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/week%2003/different_summands.cpp)
+
+- ## Week 4
+
+# [Divide-and-Conquer](https://github.com/SohanR/Data-Structures-and-Algorithms/tree/master/Algorithmic%20Toolbox/week%2004)
+
+# Assignments
+
+- ### [4-1: Binary Search](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/week%2004/binary_search.cpp)
+- ### [4-2: Majority Element](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/week%2004/majority_element.cpp)
+- ### [4-3: Improving QuickSort](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/week%2004/sorting.cpp)
+- ### [4-4: Inversions](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/week%2004/inversions.cpp)
+- ### [4-5: Organizing a Lottery](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/week%2004/points_and_segments.cpp)
+- ### [4-6: Closest Points](https://github.com/SohanR/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/week%2004/closest.cpp)
